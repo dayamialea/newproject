@@ -4,11 +4,11 @@ mini proyecto web
 
 Tecnologías
 
-html
+html listo
 css
 
 boostrap
 
 control de versiones
-repositorio local *git
-repositorio remoto *github
+repositorio local *git listo
+repositorio remoto *github listo
